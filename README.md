@@ -47,8 +47,7 @@ I am a **4th-year student** at **Cracow University of Technology**, majoring in 
 ## 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BartoszDutka&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszDutka&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszDutka&layout=compact&theme=light">
 </p>
 
 ---
