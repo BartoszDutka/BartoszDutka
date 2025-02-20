@@ -5,6 +5,15 @@ I am a **4th-year student** at **Cracow University of Technology**, majoring in 
 
 ---
 
+## 🔨 Currently Working On  
+
+🛠 **Engineering Project:**  
+**"System monitorowania infrastruktury fizycznej i wirtualnej w instytucie medycznym"**  
+🔹 Focus: Real-time infrastructure monitoring, data analysis, and optimization.  
+🔹 Tech Stack: **Proxmox, Zabbix, Docker, Graylog, GLPI**  
+
+---
+
 ## 🛠 Skills & Technologies  
 
 ### 💾 **Databases & Data Management**  
@@ -16,6 +25,8 @@ I am a **4th-year student** at **Cracow University of Technology**, majoring in 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)  
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GLPI](https://img.shields.io/badge/GLPI-2D7DB2?style=for-the-badge&logo=glpi&logoColor=white)  
+![Graylog](https://img.shields.io/badge/Graylog-FF0000?style=for-the-badge&logo=graylog&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 🖥 **Programming & Development**  
@@ -27,28 +38,14 @@ I am a **4th-year student** at **Cracow University of Technology**, majoring in 
 
 ---
 
-## 🔨 Notable Projects  
-
-🛠 **SmartDiskCopier**  
-_A tool for efficient disk duplication & data integrity verification._  
-🔹 **Tech Used:** C++, Assembly, MySQL  
-
----
-
 ## 📊 My GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BartoszDutka&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszDutka&layout=compact&theme=dark)  
 
-### **Most Used Languages**  
-```md
-- Assembly: 50.11%  
-- C++: 29.79%  
-- Python: 11.34%  
-- VHDL: 4.09%  
-- HTML: 3.67%  
-- Batchfile: 0.99%  
 
-📬 Contact Me
+---
 
-📧 Email: bar711.bd@gmail.com
+## 📬 Contact Me  
+
+📧 **Email:** [bar711.bd@gmail.com](mailto:bar711.bd@gmail.com)  
