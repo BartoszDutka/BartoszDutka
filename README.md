@@ -1,7 +1,7 @@
 # 👋 Hey there!
 
 ## 🎓 About Me  
-I am a **4th-year student** at **Cracow University of Technology**, majoring in **Information Technology**.  
+I am a 1st-year student of second-cycle (master’s) studies at the Cracow University of Technology, majoring in Cybersecurity.
 
 ---
 
