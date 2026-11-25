@@ -31,11 +31,10 @@ My technical focus is reliable infrastructure, secure system configuration, moni
 | --- | --- | --- |
 | [Infrastructure Monitoring Platform](https://github.com/BartoszDutka/Infrastructure-Monitoring-Platform) | Unified monitoring, log analysis, inventory, reporting and access management. | Python, Flask, Zabbix, Graylog, GLPI, LDAP |
 | [DiskRecover](https://github.com/BartoszDutka/diskrecover) | Read-only disk image analysis, FAT32 recovery, file carving and integrity checks. | Python, PySide6, SQLite, SHA-256 |
-| [Phishing Detector](https://github.com/BartoszDutka/phishing-detector) | URL classification using machine learning, feature analysis and model evaluation. | Python, scikit-learn, pandas |
-| [Enterprise Directory](https://github.com/BartoszDutka/Enterprise-Directory) | Searchable internal contact directory with administrative access and reporting. | FastAPI, SQLModel, HTMX, SQLite, Docker |
 | [IP Camera Manager](https://github.com/BartoszDutka/IP-Camera-Manager) | Centralized camera management, browser-based streaming and PTZ control. | Next.js, RTSP, ONVIF, go2rtc, Docker |
 | [SmartDiskCopier](https://github.com/BartoszDutka/SmartDiskCopier) | Concurrent copying from physical and RDP-redirected optical drives. | Python, Windows, PyInstaller |
 | [Tutoring Management Platform](https://github.com/BartoszDutka/Tutoring-Management-Platform) | Course catalog, enrollment, authentication and content management. | React, TypeScript, Firebase |
+| [Product Management API](https://github.com/BartoszDutka/product-management-api) | Product management REST API with a layered backend and integration tests. | C#, ASP.NET Core, MongoDB, Docker |
 | [Personal Budget Manager](https://github.com/BartoszDutka/personal-budget-manager) | Personal finance, transaction tracking and savings planning. | React, Firebase, Firestore |
 
 [Browse all public repositories](https://github.com/BartoszDutka?tab=repositories)
