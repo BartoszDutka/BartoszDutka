@@ -30,7 +30,6 @@ I combine hands-on infrastructure management with software development to build 
 
 - BEng in Computer Science
 - MSc student specializing in Cybersecurity at Cracow University of Technology
-- Four-time Rector's Scholarship recipient
 - Based in Krakow, Poland
 
 ---
