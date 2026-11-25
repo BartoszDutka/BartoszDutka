@@ -63,7 +63,6 @@ My technical focus is reliable infrastructure, secure system configuration, moni
 
 - MSc in Computer Science — Cybersecurity, 2025–2027 (expected).
 - BEng in Computer Science — Computer Engineering, 2021–2025.
-- Four-time Rector's Scholarship recipient.
 
 **Selected training:** Ethical Hacker, CyberOps Associate and Junior Cybersecurity Analyst (ECSC); Introduction to Cybersecurity (Cisco); Python Programming with Red Hat (AD141); Threat Intelligence, System and Network Hardening, Log Analysis and Secure SDLC / DevSecOps (training attendance, Małopolskie Parki Zdrowia).
 
